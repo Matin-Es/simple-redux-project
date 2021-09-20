@@ -25,7 +25,7 @@ and in your reducers you will check them with if else or switch case
 if they match the types 
 if they did, then you apply your changes to the state by returning the state and the changes you want 
 
-i know it's a little bit confusing reading it buy believe me it would be lot easier if you take look at the codes
+i know it's a little bit confusing reading it but believe me it would be lot easier if you take look at the codes
 
 and yep i think thats pretty much it :D 
 
