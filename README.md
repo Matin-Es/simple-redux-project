@@ -24,6 +24,7 @@ you should create some actions and give them a type in an object
 and in your reducers you will check them with if else or switch case 
 if they match the types 
 if they did, then you apply your changes to the state by returning the state and the changes you want 
+and you can use it in your component by using useDispatch() and give the function you had in your actions as the argument to useDispatch() .
 
 i know it's a little bit confusing reading it but believe me it would be lot easier if you take look at the codes
 
